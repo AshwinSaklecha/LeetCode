@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1861-rotating-the-box](https://github.com/AshwinSaklecha/LeetCode/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2784-check-if-array-is-good](https://github.com/AshwinSaklecha/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2784-check-if-array-is-good](https://github.com/AshwinSaklecha/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Matrix
 |  |
 | ------- |
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/AshwinSaklecha/LeetCode/tree/master/1861-rotating-the-box) |
+## Hash Table
+|  |
+| ------- |
+| [2784-check-if-array-is-good](https://github.com/AshwinSaklecha/LeetCode/tree/master/2784-check-if-array-is-good) |
 <!---LeetCode Topics End-->
