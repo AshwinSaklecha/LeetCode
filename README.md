@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/AshwinSaklecha/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/AshwinSaklecha/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/AshwinSaklecha/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/AshwinSaklecha/LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AshwinSaklecha/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/AshwinSaklecha/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AshwinSaklecha/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
