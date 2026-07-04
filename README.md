@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/AshwinSaklecha/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AshwinSaklecha/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -122,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AshwinSaklecha/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AshwinSaklecha/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AshwinSaklecha/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/AshwinSaklecha/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
