@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/AshwinSaklecha/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2707-extra-characters-in-a-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AshwinSaklecha/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/AshwinSaklecha/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AshwinSaklecha/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2707-extra-characters-in-a-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/AshwinSaklecha/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AshwinSaklecha/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AshwinSaklecha/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AshwinSaklecha/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2707-extra-characters-in-a-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/AshwinSaklecha/LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1301-number-of-paths-with-max-score](https://github.com/AshwinSaklecha/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AshwinSaklecha/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2707-extra-characters-in-a-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AshwinSaklecha/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3620-network-recovery-pathways](https://github.com/AshwinSaklecha/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Counting
@@ -192,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/AshwinSaklecha/LeetCode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
+## Trie
+|  |
+| ------- |
+| [2707-extra-characters-in-a-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
