@@ -12,9 +12,9 @@ class Solution:
     def traverse(self, node, count, edges, visited, recursion_stack):
         if recursion_stack[node][0] == True:
             return count - recursion_stack[node][1]
-        if edges[node] == -1:
-            return -1
         if visited[node] == True:
+            return -1
+        if edges[node] == -1:
             return -1
         visited[node] = True
         recursion_stack[node] = [True, count]
