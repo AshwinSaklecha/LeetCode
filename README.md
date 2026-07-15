@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/AshwinSaklecha/LeetCode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AshwinSaklecha/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AshwinSaklecha/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
@@ -226,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AshwinSaklecha/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AshwinSaklecha/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
