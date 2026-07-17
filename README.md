@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AshwinSaklecha/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/AshwinSaklecha/LeetCode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AshwinSaklecha/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/AshwinSaklecha/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/AshwinSaklecha/LeetCode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AshwinSaklecha/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AshwinSaklecha/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AshwinSaklecha/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3713-longest-balanced-substring-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/AshwinSaklecha/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/AshwinSaklecha/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Binary Tree
@@ -162,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Breadth-First Search
@@ -230,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AshwinSaklecha/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AshwinSaklecha/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AshwinSaklecha/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -237,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AshwinSaklecha/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
