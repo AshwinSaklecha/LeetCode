@@ -321,4 +321,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0585-investments-in-2016](https://github.com/AshwinSaklecha/LeetCode/tree/master/0585-investments-in-2016) |
+| [1193-monthly-transactions-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
