@@ -317,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Database
+|  |
+| ------- |
+| [0585-investments-in-2016](https://github.com/AshwinSaklecha/LeetCode/tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
