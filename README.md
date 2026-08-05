@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/AshwinSaklecha/LeetCode/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AshwinSaklecha/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/AshwinSaklecha/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/AshwinSaklecha/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AshwinSaklecha/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AshwinSaklecha/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/AshwinSaklecha/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/AshwinSaklecha/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
