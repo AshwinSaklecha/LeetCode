@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/AshwinSaklecha/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2179-count-good-triplets-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/AshwinSaklecha/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-extra-characters-in-a-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/2707-extra-characters-in-a-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/AshwinSaklecha/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [2179-count-good-triplets-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/AshwinSaklecha/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1382-balance-a-binary-search-tree](https://github.com/AshwinSaklecha/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [2179-count-good-triplets-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AshwinSaklecha/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AshwinSaklecha/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -397,5 +401,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AshwinSaklecha/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Merge Sort
+|  |
+| ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
