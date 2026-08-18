@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AshwinSaklecha/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2101-detonate-the-maximum-bombs](https://github.com/AshwinSaklecha/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2126-destroying-asteroids](https://github.com/AshwinSaklecha/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2179-count-good-triplets-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/AshwinSaklecha/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2101-detonate-the-maximum-bombs](https://github.com/AshwinSaklecha/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/AshwinSaklecha/LeetCode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/AshwinSaklecha/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/AshwinSaklecha/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AshwinSaklecha/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/AshwinSaklecha/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/AshwinSaklecha/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/AshwinSaklecha/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AshwinSaklecha/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-maximal-network-rank](https://github.com/AshwinSaklecha/LeetCode/tree/master/1615-maximal-network-rank) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/AshwinSaklecha/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/AshwinSaklecha/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AshwinSaklecha/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -426,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2179-count-good-triplets-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [3479-fruits-into-baskets-iii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/AshwinSaklecha/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
