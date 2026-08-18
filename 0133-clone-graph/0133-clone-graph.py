@@ -11,24 +11,17 @@ class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
         if node is None:
             return None
+
         my_dict = {}
+        cloned_node = Node()
+        cloned_node.val = node.val
+        my_dict[node] = cloned_node
+
         qu = deque()
         qu.append(node)
-        visited = set()
 
         while qu:
             original_node = qu.pop()
-            cloned_node = None
-            if original_node in my_dict :
-                cloned_node = my_dict[original_node]
-            else:
-                cloned_node = Node()
-                cloned_node.val = original_node.val
-                my_dict[original_node] = cloned_node
-            
-            # so till now we have fetched the cloned node from the dictionary
-            # now lets iterate on the neighbours of the original node 
-
             for child in original_node.neighbors:
                 if child not in my_dict:
                     cloned_child = Node()
