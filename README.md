@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/0133-clone-graph) |
 | [0399-evaluate-division](https://github.com/AshwinSaklecha/LeetCode/tree/master/0399-evaluate-division) |
+| [0802-find-eventual-safe-states](https://github.com/AshwinSaklecha/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/AshwinSaklecha/LeetCode/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AshwinSaklecha/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AshwinSaklecha/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/0133-clone-graph) |
 | [0399-evaluate-division](https://github.com/AshwinSaklecha/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/AshwinSaklecha/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0802-find-eventual-safe-states](https://github.com/AshwinSaklecha/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/AshwinSaklecha/LeetCode/tree/master/0839-similar-string-groups) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/AshwinSaklecha/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/0133-clone-graph) |
 | [0399-evaluate-division](https://github.com/AshwinSaklecha/LeetCode/tree/master/0399-evaluate-division) |
+| [0802-find-eventual-safe-states](https://github.com/AshwinSaklecha/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AshwinSaklecha/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1514-path-with-maximum-probability](https://github.com/AshwinSaklecha/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/AshwinSaklecha/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/AshwinSaklecha/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 | [3620-network-recovery-pathways](https://github.com/AshwinSaklecha/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -456,4 +460,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/AshwinSaklecha/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/AshwinSaklecha/LeetCode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
