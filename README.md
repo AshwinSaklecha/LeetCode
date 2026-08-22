@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/AshwinSaklecha/LeetCode/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshwinSaklecha/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AshwinSaklecha/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1406-stone-game-iii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/AshwinSaklecha/LeetCode/tree/master/0279-perfect-squares) |
 | [0403-frog-jump](https://github.com/AshwinSaklecha/LeetCode/tree/master/0403-frog-jump) |
 | [0576-out-of-boundary-paths](https://github.com/AshwinSaklecha/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0877-stone-game](https://github.com/AshwinSaklecha/LeetCode/tree/master/0877-stone-game) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/0133-clone-graph) |
+| [0279-perfect-squares](https://github.com/AshwinSaklecha/LeetCode/tree/master/0279-perfect-squares) |
 | [0399-evaluate-division](https://github.com/AshwinSaklecha/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/AshwinSaklecha/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0802-find-eventual-safe-states](https://github.com/AshwinSaklecha/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -481,4 +484,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/AshwinSaklecha/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/AshwinSaklecha/LeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/AshwinSaklecha/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
