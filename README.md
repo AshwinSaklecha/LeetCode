@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/AshwinSaklecha/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0839-similar-string-groups](https://github.com/AshwinSaklecha/LeetCode/tree/master/0839-similar-string-groups) |
 | [0877-stone-game](https://github.com/AshwinSaklecha/LeetCode/tree/master/0877-stone-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1260-shift-2d-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AshwinSaklecha/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/AshwinSaklecha/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/AshwinSaklecha/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0877-stone-game](https://github.com/AshwinSaklecha/LeetCode/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/AshwinSaklecha/LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
+| [1043-partition-array-for-maximum-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AshwinSaklecha/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/AshwinSaklecha/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1406-stone-game-iii) |
