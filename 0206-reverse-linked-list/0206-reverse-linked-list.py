@@ -11,9 +11,13 @@ class Solution:
         return ans
     
     def reverse(self, prev_node, node):
-        while node != None :
-            next_node = node.next 
-            node.next = prev_node 
-            prev_node = node 
-            node = next_node
-        return prev_node
+        # now recursive code 
+        if node == None :
+            return prev_node 
+        
+        next_node = node.next 
+        node.next = prev_node 
+        prev_node = node 
+        node = next_node 
+
+        return self.reverse(prev_node, node)
