@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/0001-two-sum) |
 | [0399-evaluate-division](https://github.com/AshwinSaklecha/LeetCode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/AshwinSaklecha/LeetCode/tree/master/0403-frog-jump) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshwinSaklecha/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/0133-clone-graph) |
 | [0433-minimum-genetic-mutation](https://github.com/AshwinSaklecha/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0839-similar-string-groups](https://github.com/AshwinSaklecha/LeetCode/tree/master/0839-similar-string-groups) |
