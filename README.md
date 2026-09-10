@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AshwinSaklecha/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/AshwinSaklecha/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AshwinSaklecha/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/AshwinSaklecha/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AshwinSaklecha/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AshwinSaklecha/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/AshwinSaklecha/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AshwinSaklecha/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/AshwinSaklecha/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AshwinSaklecha/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Segment Tree
 |  |
 | ------- |
