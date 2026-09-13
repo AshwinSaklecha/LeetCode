@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/AshwinSaklecha/LeetCode/tree/master/0403-frog-jump) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshwinSaklecha/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/AshwinSaklecha/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0835-image-overlap](https://github.com/AshwinSaklecha/LeetCode/tree/master/0835-image-overlap) |
 | [0839-similar-string-groups](https://github.com/AshwinSaklecha/LeetCode/tree/master/0839-similar-string-groups) |
 | [0877-stone-game](https://github.com/AshwinSaklecha/LeetCode/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/AshwinSaklecha/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AshwinSaklecha/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
