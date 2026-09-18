@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/AshwinSaklecha/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AshwinSaklecha/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshwinSaklecha/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/AshwinSaklecha/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AshwinSaklecha/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AshwinSaklecha/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/AshwinSaklecha/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshwinSaklecha/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2370-longest-ideal-subsequence](https://github.com/AshwinSaklecha/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AshwinSaklecha/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshwinSaklecha/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AshwinSaklecha/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1927-sum-game](https://github.com/AshwinSaklecha/LeetCode/tree/master/1927-sum-game) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/AshwinSaklecha/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/AshwinSaklecha/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshwinSaklecha/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AshwinSaklecha/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/AshwinSaklecha/LeetCode/tree/master/1927-sum-game) |
 | [2126-destroying-asteroids](https://github.com/AshwinSaklecha/LeetCode/tree/master/2126-destroying-asteroids) |
