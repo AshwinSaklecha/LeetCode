@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/AshwinSaklecha/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AshwinSaklecha/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshwinSaklecha/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/AshwinSaklecha/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AshwinSaklecha/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/AshwinSaklecha/LeetCode/tree/master/1861-rotating-the-box) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/AshwinSaklecha/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshwinSaklecha/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshwinSaklecha/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2370-longest-ideal-subsequence](https://github.com/AshwinSaklecha/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/AshwinSaklecha/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1382-balance-a-binary-search-tree](https://github.com/AshwinSaklecha/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshwinSaklecha/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2179-count-good-triplets-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AshwinSaklecha/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/AshwinSaklecha/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AshwinSaklecha/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshwinSaklecha/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1872-stone-game-viii) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/AshwinSaklecha/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshwinSaklecha/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshwinSaklecha/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
