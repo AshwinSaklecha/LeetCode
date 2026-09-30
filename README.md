@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0839-similar-string-groups](https://github.com/AshwinSaklecha/LeetCode/tree/master/0839-similar-string-groups) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/AshwinSaklecha/LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0940-distinct-subsequences-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AshwinSaklecha/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/AshwinSaklecha/LeetCode/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/AshwinSaklecha/LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0940-distinct-subsequences-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AshwinSaklecha/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
