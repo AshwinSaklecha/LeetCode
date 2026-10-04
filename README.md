@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AshwinSaklecha/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/AshwinSaklecha/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/AshwinSaklecha/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AshwinSaklecha/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AshwinSaklecha/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-extra-characters-in-a-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/AshwinSaklecha/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/AshwinSaklecha/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AshwinSaklecha/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/AshwinSaklecha/LeetCode/tree/master/1927-sum-game) |
 | [2126-destroying-asteroids](https://github.com/AshwinSaklecha/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshwinSaklecha/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/AshwinSaklecha/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshwinSaklecha/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/AshwinSaklecha/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
