@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/AshwinSaklecha/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AshwinSaklecha/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AshwinSaklecha/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/AshwinSaklecha/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AshwinSaklecha/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/AshwinSaklecha/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/AshwinSaklecha/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AshwinSaklecha/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/AshwinSaklecha/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AshwinSaklecha/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/AshwinSaklecha/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshwinSaklecha/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/AshwinSaklecha/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/AshwinSaklecha/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshwinSaklecha/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AshwinSaklecha/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshwinSaklecha/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1872-stone-game-viii) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/AshwinSaklecha/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -715,4 +719,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/AshwinSaklecha/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Polygons
+|  |
+| ------- |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/AshwinSaklecha/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 <!---LeetCode Topics End-->
