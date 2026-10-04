@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AshwinSaklecha/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/AshwinSaklecha/LeetCode/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1872-stone-game-viii) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/AshwinSaklecha/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AshwinSaklecha/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshwinSaklecha/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/AshwinSaklecha/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AshwinSaklecha/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/AshwinSaklecha/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2463-minimum-total-distance-traveled](https://github.com/AshwinSaklecha/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/AshwinSaklecha/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AshwinSaklecha/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AshwinSaklecha/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1927-sum-game](https://github.com/AshwinSaklecha/LeetCode/tree/master/1927-sum-game) |
 | [2126-destroying-asteroids](https://github.com/AshwinSaklecha/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshwinSaklecha/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
