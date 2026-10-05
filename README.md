@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/AshwinSaklecha/LeetCode/tree/master/0279-perfect-squares) |
 | [0403-frog-jump](https://github.com/AshwinSaklecha/LeetCode/tree/master/0403-frog-jump) |
 | [0514-freedom-trail](https://github.com/AshwinSaklecha/LeetCode/tree/master/0514-freedom-trail) |
+| [0552-student-attendance-record-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/0552-student-attendance-record-ii) |
 | [0576-out-of-boundary-paths](https://github.com/AshwinSaklecha/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0647-palindromic-substrings](https://github.com/AshwinSaklecha/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/0678-valid-parenthesis-string) |
