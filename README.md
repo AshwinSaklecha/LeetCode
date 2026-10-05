@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/AshwinSaklecha/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AshwinSaklecha/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/AshwinSaklecha/LeetCode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/AshwinSaklecha/LeetCode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AshwinSaklecha/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/AshwinSaklecha/LeetCode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AshwinSaklecha/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/AshwinSaklecha/LeetCode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/AshwinSaklecha/LeetCode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/AshwinSaklecha/LeetCode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/AshwinSaklecha/LeetCode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AshwinSaklecha/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AshwinSaklecha/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/AshwinSaklecha/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AshwinSaklecha/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AshwinSaklecha/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/AshwinSaklecha/LeetCode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
@@ -657,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/AshwinSaklecha/LeetCode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
