@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/AshwinSaklecha/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0399-evaluate-division](https://github.com/AshwinSaklecha/LeetCode/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/AshwinSaklecha/LeetCode/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/AshwinSaklecha/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0514-freedom-trail](https://github.com/AshwinSaklecha/LeetCode/tree/master/0514-freedom-trail) |
 | [0647-palindromic-substrings](https://github.com/AshwinSaklecha/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AshwinSaklecha/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/AshwinSaklecha/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AshwinSaklecha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AshwinSaklecha/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/AshwinSaklecha/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/AshwinSaklecha/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AshwinSaklecha/LeetCode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/AshwinSaklecha/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AshwinSaklecha/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
