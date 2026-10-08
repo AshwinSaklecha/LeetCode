@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/AshwinSaklecha/LeetCode/tree/master/0839-similar-string-groups) |
 | [0877-stone-game](https://github.com/AshwinSaklecha/LeetCode/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1105-filling-bookcase-shelves](https://github.com/AshwinSaklecha/LeetCode/tree/master/1105-filling-bookcase-shelves) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AshwinSaklecha/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1260-shift-2d-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AshwinSaklecha/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/AshwinSaklecha/LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0940-distinct-subsequences-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1105-filling-bookcase-shelves](https://github.com/AshwinSaklecha/LeetCode/tree/master/1105-filling-bookcase-shelves) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AshwinSaklecha/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AshwinSaklecha/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
