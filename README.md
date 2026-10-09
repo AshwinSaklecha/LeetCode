@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/0001-two-sum) |
 | [0399-evaluate-division](https://github.com/AshwinSaklecha/LeetCode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/AshwinSaklecha/LeetCode/tree/master/0403-frog-jump) |
+| [0494-target-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AshwinSaklecha/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/AshwinSaklecha/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/AshwinSaklecha/LeetCode/tree/master/0835-image-overlap) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/AshwinSaklecha/LeetCode/tree/master/0279-perfect-squares) |
 | [0403-frog-jump](https://github.com/AshwinSaklecha/LeetCode/tree/master/0403-frog-jump) |
+| [0494-target-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/AshwinSaklecha/LeetCode/tree/master/0514-freedom-trail) |
 | [0552-student-attendance-record-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/0552-student-attendance-record-ii) |
 | [0576-out-of-boundary-paths](https://github.com/AshwinSaklecha/LeetCode/tree/master/0576-out-of-boundary-paths) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/AshwinSaklecha/LeetCode/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AshwinSaklecha/LeetCode/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/AshwinSaklecha/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Cartesian Tree
 |  |
@@ -788,4 +792,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/AshwinSaklecha/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
