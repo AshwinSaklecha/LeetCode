@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/AshwinSaklecha/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/AshwinSaklecha/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AshwinSaklecha/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AshwinSaklecha/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AshwinSaklecha/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/AshwinSaklecha/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/AshwinSaklecha/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/AshwinSaklecha/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AshwinSaklecha/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AshwinSaklecha/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/AshwinSaklecha/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [1386-cinema-seat-allocation](https://github.com/AshwinSaklecha/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AshwinSaklecha/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/AshwinSaklecha/LeetCode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AshwinSaklecha/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/AshwinSaklecha/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshwinSaklecha/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/AshwinSaklecha/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AshwinSaklecha/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/AshwinSaklecha/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
