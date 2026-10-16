@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/AshwinSaklecha/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AshwinSaklecha/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AshwinSaklecha/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AshwinSaklecha/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/AshwinSaklecha/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/AshwinSaklecha/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AshwinSaklecha/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AshwinSaklecha/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2179-count-good-triplets-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AshwinSaklecha/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3479-fruits-into-baskets-iii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2179-count-good-triplets-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AshwinSaklecha/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
