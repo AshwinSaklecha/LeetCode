@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/AshwinSaklecha/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AshwinSaklecha/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AshwinSaklecha/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/AshwinSaklecha/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AshwinSaklecha/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AshwinSaklecha/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
