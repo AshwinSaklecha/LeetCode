@@ -11,7 +11,6 @@ class Solution:
         flag2 = True # True means its possible 
         prev_num = float('-inf')
         for idx in range(smallest_idx, smallest_idx + len(nums)):
-            print(idx)
             idx = idx % len(nums)
             if nums[idx] > prev_num:
                 prev_num = nums[idx]
@@ -19,9 +18,7 @@ class Solution:
                 flag1 = False
                 break
         prev_num = float('-inf')
-        print("------------------")
         for idx in range(smallest_idx, smallest_idx - len(nums), -1):
-            print(idx)
             if nums[idx] > prev_num:
                 prev_num = nums[idx]
             else :
