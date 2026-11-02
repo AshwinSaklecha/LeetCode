@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AshwinSaklecha/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1872-stone-game-viii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1872-stone-game-viii) |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/AshwinSaklecha/LeetCode/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/AshwinSaklecha/LeetCode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AshwinSaklecha/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2370-longest-ideal-subsequence](https://github.com/AshwinSaklecha/LeetCode/tree/master/2370-longest-ideal-subsequence) |
@@ -875,4 +876,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/0494-target-sum) |
+## Graph Coloring
+|  |
+| ------- |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/AshwinSaklecha/LeetCode/tree/master/1931-painting-a-grid-with-three-different-colors) |
 <!---LeetCode Topics End-->
