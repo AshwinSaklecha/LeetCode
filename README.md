@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AshwinSaklecha/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+| [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/AshwinSaklecha/LeetCode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/AshwinSaklecha/LeetCode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AshwinSaklecha/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3366-minimum-array-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/3366-minimum-array-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AshwinSaklecha/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
