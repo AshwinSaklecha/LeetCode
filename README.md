@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AshwinSaklecha/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/AshwinSaklecha/LeetCode/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/AshwinSaklecha/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/AshwinSaklecha/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/AshwinSaklecha/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/AshwinSaklecha/LeetCode/tree/master/1937-maximum-number-of-points-with-cost) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/AshwinSaklecha/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1642-furthest-building-you-can-reach](https://github.com/AshwinSaklecha/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
+| [1882-process-tasks-using-servers](https://github.com/AshwinSaklecha/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AshwinSaklecha/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AshwinSaklecha/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
