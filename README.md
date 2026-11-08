@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AshwinSaklecha/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1254-number-of-closed-islands](https://github.com/AshwinSaklecha/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/AshwinSaklecha/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AshwinSaklecha/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/AshwinSaklecha/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/AshwinSaklecha/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/AshwinSaklecha/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AshwinSaklecha/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/AshwinSaklecha/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/AshwinSaklecha/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AshwinSaklecha/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/AshwinSaklecha/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AshwinSaklecha/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AshwinSaklecha/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/AshwinSaklecha/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AshwinSaklecha/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1382-balance-a-binary-search-tree](https://github.com/AshwinSaklecha/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/AshwinSaklecha/LeetCode/tree/master/0839-similar-string-groups) |
 | [1096-brace-expansion-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/AshwinSaklecha/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AshwinSaklecha/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/AshwinSaklecha/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -589,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/AshwinSaklecha/LeetCode/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AshwinSaklecha/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1254-number-of-closed-islands](https://github.com/AshwinSaklecha/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AshwinSaklecha/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AshwinSaklecha/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/AshwinSaklecha/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
