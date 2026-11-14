@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AshwinSaklecha/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AshwinSaklecha/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3366-minimum-array-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/3366-minimum-array-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AshwinSaklecha/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AshwinSaklecha/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/AshwinSaklecha/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AshwinSaklecha/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AshwinSaklecha/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AshwinSaklecha/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AshwinSaklecha/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AshwinSaklecha/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
