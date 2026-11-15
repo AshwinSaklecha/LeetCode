@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AshwinSaklecha/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/AshwinSaklecha/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1514-path-with-maximum-probability](https://github.com/AshwinSaklecha/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AshwinSaklecha/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1642-furthest-building-you-can-reach](https://github.com/AshwinSaklecha/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshwinSaklecha/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AshwinSaklecha/LeetCode/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AshwinSaklecha/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AshwinSaklecha/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AshwinSaklecha/LeetCode/tree/master/1927-sum-game) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/AshwinSaklecha/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AshwinSaklecha/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AshwinSaklecha/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/AshwinSaklecha/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1094-car-pooling](https://github.com/AshwinSaklecha/LeetCode/tree/master/1094-car-pooling) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AshwinSaklecha/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshwinSaklecha/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1872-stone-game-viii) |
