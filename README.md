@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/AshwinSaklecha/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1927-sum-game](https://github.com/AshwinSaklecha/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AshwinSaklecha/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2370-longest-ideal-subsequence](https://github.com/AshwinSaklecha/LeetCode/tree/master/2370-longest-ideal-subsequence) |
 | [2409-count-days-spent-together](https://github.com/AshwinSaklecha/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AshwinSaklecha/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1094-car-pooling](https://github.com/AshwinSaklecha/LeetCode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1260-shift-2d-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2751-robot-collisions](https://github.com/AshwinSaklecha/LeetCode/tree/master/2751-robot-collisions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshwinSaklecha/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/AshwinSaklecha/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
