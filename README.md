@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/AshwinSaklecha/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/AshwinSaklecha/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AshwinSaklecha/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AshwinSaklecha/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/AshwinSaklecha/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AshwinSaklecha/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/AshwinSaklecha/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0836-rectangle-overlap](https://github.com/AshwinSaklecha/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AshwinSaklecha/LeetCode/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AshwinSaklecha/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AshwinSaklecha/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/AshwinSaklecha/LeetCode/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/AshwinSaklecha/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1094-car-pooling](https://github.com/AshwinSaklecha/LeetCode/tree/master/1094-car-pooling) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AshwinSaklecha/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AshwinSaklecha/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AshwinSaklecha/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AshwinSaklecha/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -931,4 +934,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/AshwinSaklecha/LeetCode/tree/master/1931-painting-a-grid-with-three-different-colors) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AshwinSaklecha/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AshwinSaklecha/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
